@@ -1,2 +1,7 @@
-Test
+Whisk eggs
+Add sugar
+Add fluor
+Add vanilla
+Mix for 5 min
+Bake for 30 min
 
